@@ -1,0 +1,56 @@
+#time-section{
+    margin: auto;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#background{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    height: 300px;
+    width: 600px;
+    position: relative;
+    bottom: 250px;
+    border: 5px solid black;
+}
+
+#buttons{
+    margin: auto;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 350px;
+}
+
+#buttons button{
+    margin: 0 40px 0 40px;
+}
+
+#cash-section{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+}
+
+#cashicon{
+    height: 40px;
+    padding-top: 15px;
+}
+
+#comment-section{
+    margin: auto;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    align-items: flex-end;
+    position: relative;
+    right: 130px;
+    bottom: 450px;
+}
