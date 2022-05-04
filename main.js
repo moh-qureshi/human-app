@@ -55,7 +55,7 @@ set _fitness(fitness){
     this.fitness = 100
 }
 set _career(career){
-    this.career = 0
+    this.career = 50
 }
 set _health(health){
     this.health = 100
